@@ -1,0 +1,12 @@
+{
+            'repository_name': repository_name,
+            'pusher_name': pusher_name,
+            'commit_id': commit_id,
+            'changes_to_files': [
+                {
+                    "added_files": added_files,
+                    "modified_files": modified_files,
+                    "removed_files": removed_files
+                }
+            ]
+        }
